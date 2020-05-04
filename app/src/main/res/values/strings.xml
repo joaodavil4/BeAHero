@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MarvelHeroes</string>
+    <string name="errorGetInformations">Não foi possível encontrar as informações.</string>
+
+
+    <string name="marvelRights">Data provided by Marvel. © 2014 Marvel</string>
+
+</resources>
